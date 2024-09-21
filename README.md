@@ -4,6 +4,8 @@ navigation graphs nested inside the main navigation graph.
 
 #### Installation
 Clone the app from [repository](https://github.com/DenisGithuku/ComposeNestedNavigation.git).
+and cd into `ComposeNestedNavigation`. Run `./gradlew build` to build the app and 
+`./gradlew installDebug` to install the debug version.
 
 > **Note**
 > This project was set up on Java `17.0.1`, navigation-compose `2.8.1`, compose `1.5.1` and gradle plugin `8.7`
